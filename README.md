@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meghal Baile</h1>
 <h3 align="center">A passionate Data Analyst looking to upskill myself.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meghalbaile&label=Profile%20views&color=0e75b6&style=flat" alt="meghalbaile" /> </p>
-
 - 🌱 I’m currently learning **Hadoop, AWS**
 
 - 🤝 I’m looking for help with **Big Data**
