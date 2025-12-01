@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meghal Baile</h1>
-<h3 align="center">A passionate Data Analyst looking to upskill myself.</h3>
+<h3 align="center">This is my profile where I shall share my data journey from the beginning.</h3>
 
 - 🌱 I’m currently learning **Hadoop, AWS**
 
