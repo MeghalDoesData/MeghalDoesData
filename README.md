@@ -5,13 +5,14 @@
 
 - 🌱 I’m currently learning **Hadoop, AWS**
 
-- 🤝 I’m looking for help with **Analysis**
+- 🤝 I’m looking for help with **Big Data**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MeghalBaile](https://github.com/MeghalBaile](https://github.com/MeghalBaile?tab=repositories))
 
+
 - 💬 Ask me about **Pandas, Numpy, PowerBI**
 
-- 📫 How to reach me **work.meghal27@gmail.com**
+- 📫 How to reach me **work.meghal27@gmail.com** **meghalvijaybaile27@gmail.com** **m3ghalbaile@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
