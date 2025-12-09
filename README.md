@@ -10,7 +10,9 @@
 
 - 💬 Ask me about **Pandas, Numpy, PowerBI**
 
-- 📫 How to reach me **work.meghal27@gmail.com** **meghalvijaybaile27@gmail.com** **m3ghalbaile@gmail.com**
+- 📫 How to reach me **work.meghal27@gmail.com**
+-  **meghalvijaybaile27@gmail.com**
+-  **m3ghalbaile@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
