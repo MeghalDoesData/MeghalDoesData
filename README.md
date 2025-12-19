@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Big Data**
 
-- 👨‍💻 All of my projects are available at my alternate account:  [https://github.com/MeghalBaile][https://github.com/MeghalBaile](https://github.com/MeghalBaile?tab=repositories))
+- 👨‍💻 All of my projects are available at my alternate account:  [https://github.com/MeghalBaile](https://github.com/MeghalBaile?tab=repositories)
 
 
 - 💬 Ask me about **Pandas, Numpy, PowerBI**
