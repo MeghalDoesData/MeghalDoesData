@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meghal Baile</h1>
 <h3 align="center">This is my profile where I shall share my data journey from the beginning.</h3>
 
-- 🌱 **Post Graduate Diploma in Big Data Analytics**
+- 🌱 **Big Data Analytics**
 
 - 🌱 I’m currently learning **Hadoop, Databases, Machine Learning AWS**
 
