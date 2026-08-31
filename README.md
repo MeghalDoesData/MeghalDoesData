@@ -3,14 +3,14 @@
 
 - 🌱 **Big Data Analytics**
 
-- 🌱 I’m currently learning **Hadoop, Databases, Machine Learning AWS**
+- 🌱 I’m currently learning **Big Data, Databases, Machine Learning AWS**
 
 - 🤝 I’m looking for help with **Big Data**
 
 - 👨‍💻 All of my projects are available at my alternate account:  [https://github.com/MeghalBaile](https://github.com/MeghalBaile?tab=repositories)
 
 
-- 💬 Ask me about **Pandas, Numpy, PowerBI**
+- 💬 Ask me about **IBM Cloud, Spark, Python, PowerBI**
 
 - 📫 How to reach me :
 - **work.meghal27@gmail.com**
